@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Usman-Sohail
-- 👀 I’m interested in Coding in C++
-- 🌱 I’m currently learning C++,python,SQL
-- 💞️ I’m looking to collaborate on C++ assignments
+- 👀 I’m interested in Web Dev (MERN) and Coding in C++
+- 🌱 I’m currently learning React,Node,C++,python,SQL
 - 📫 How to reach me usman.sohail1212@gmail.com
 
 <!---
